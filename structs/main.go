@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/pzentenoe/onboarding/structs/models"
+	"github.com/pzentenoe/onboarding-go/structs/models"
 )
 
 type DiaSemana int

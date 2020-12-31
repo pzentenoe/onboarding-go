@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pzentenoe/onboarding/structs/models"
+	"github.com/pzentenoe/onboarding-go/structs/models"
 	"strconv"
 	"time"
 )
